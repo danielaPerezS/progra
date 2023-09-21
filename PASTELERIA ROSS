@@ -76,4 +76,5 @@ if opcion== "si":
         print("TOTAL: $270")
     print("----MUCHAS GRACIAS POR SU PREFERENCIA---")
 if opcion=="no":
-    print("muchas gracias, vuelva pronto!")
+    print("Gracias, vuelva pronto")
+
