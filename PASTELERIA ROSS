@@ -4,7 +4,7 @@
   "metadata": {
     "colab": {
       "provenance": [],
-      "authorship_tag": "ABX9TyOJQRwfBs/K1KgoHKr23jPF",
+      "authorship_tag": "ABX9TyM31d8NXXadAEk1bbl1mVdm",
       "include_colab_link": true
     },
     "kernelspec": {
@@ -92,7 +92,7 @@
         "      self.nombre = nombre\n",
         "  def saludar(self):\n",
         "      print(f'bienvenido {self.nombre}')\n",
-        "s = Saludo('250','Daniela')\n",
+        "s = Saludo('250','Profesora Imelda')\n",
         "s.saludar()\n",
         "\n",
         "class pasteles:\n",
